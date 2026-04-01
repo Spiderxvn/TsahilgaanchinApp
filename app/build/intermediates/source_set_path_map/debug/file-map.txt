@@ -1,0 +1,7 @@
+com.tsahilgaanchin.app-pngs-0 /data/data/com.termux/files/home/TsahilgaanchinApp/app/build/generated/res/pngs/debug
+com.tsahilgaanchin.app-resValues-1 /data/data/com.termux/files/home/TsahilgaanchinApp/app/build/generated/res/resValues/debug
+com.tsahilgaanchin.app-packageDebugResources-2 /data/data/com.termux/files/home/TsahilgaanchinApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.tsahilgaanchin.app-packageDebugResources-3 /data/data/com.termux/files/home/TsahilgaanchinApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.tsahilgaanchin.app-merged_res-4 /data/data/com.termux/files/home/TsahilgaanchinApp/app/build/intermediates/merged_res/debug
+com.tsahilgaanchin.app-debug-5 /data/data/com.termux/files/home/TsahilgaanchinApp/app/src/debug/res
+com.tsahilgaanchin.app-main-6 /data/data/com.termux/files/home/TsahilgaanchinApp/app/src/main/res
